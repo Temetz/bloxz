@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Boxes">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Struct Name="Boxes::BOX">
+        <TypeIdentifier>
+          <NewMemberFileName>boxes.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAABAAAIIAAAAAABACAEAAAAgIAAAAAAA=</HashCode>
+      <FileName>boxes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Camera">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAEAgAAAAAAQAAAQAAAAAAAAAAAAgAAAAAEAAA=</HashCode>
+      <FileName>camera.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cursor">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAEAAAAAQAAAAAAAAAAAQAAAEAAEAAA=</HashCode>
+      <FileName>cursor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Event">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAgAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>event.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Music">
+    <Position X="5.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAABAAAAAAAAAAAAAACAAAAAAAAIAAAAIAA=</HashCode>
+      <FileName>music.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Score">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAgAEAACAAAgEAAAIQAAAAAAAAQAAAAAAAAAGAAA=</HashCode>
+      <FileName>score.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Status">
+    <Position X="2.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAEAAAAAAAAAAAIAAAEQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>status.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Text">
+    <Position X="4" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAEAAAAAAAAAABAIIAQAAAAAQAAgAAAAAACAAAAAA=</HashCode>
+      <FileName>text.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
